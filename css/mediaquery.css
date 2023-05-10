@@ -1,0 +1,25 @@
+/* DESKTOP TABLET FIRST */
+
+
+
+
+@media screen and (max-width: 768px) { 
+    
+    .container {
+        width: 100%;
+    }
+
+}
+
+
+
+/* MOBILE FIRST */
+
+
+@media screen and (max-width: ; ) {
+
+}
+
+
+
+/* MOBILE FIRST */
