@@ -16,9 +16,70 @@
 /* MOBILE FIRST */
 
 
-@media screen and (max-width: ; ) {
+@media screen and (max-width: 480px) { 
+    
+    .container {
+        width: 100%;
+    }
 
-}
+    .row {
+        flex-direction: column;
+        
+    }
+
+    .lessons .col {
+        width: 100%;
+        
+    }
+
+    
+    .card p {
+        margin-bottom: 60px;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us {
+        background: black;
+    }
+
+    .text-center {
+        font-size: 20px;
+    }
+
+    .text-center h2 {
+        font-size: 20px;
+    }
+
+    .why-us .col-left {
+        width: 43%;
+    }       
+
+    .col-left img {
+        max-width: 280%;
+    }
+    
+    .col-right h3{
+        font-size: 13px;
+    }
+
+    .col-right p {
+        font-size: 12px;
+    }
+
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+
+}   
 
 
 
